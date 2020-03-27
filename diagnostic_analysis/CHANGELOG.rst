@@ -2,6 +2,16 @@
 Changelog for package diagnostic_analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Use setuptools instead of distutils
+  Signed-off-by: ahcorde <ahcorde@gmail.com>
+* Changes to make it work with Python3
+  Signed-off-by: ahcorde <ahcorde@gmail.com>
+* Bump CMake version to avoid CMP0048 warning
+  Signed-off-by: ahcorde <ahcorde@gmail.com>
+* Contributors: ahcorde
+
 1.9.3 (2018-05-02)
 ------------------
 
